@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Hit",
+				"b_Hit_Wall"
+			],
+			[
+				"Veric",
+				"f_Vertical_Collision_Point"
+			],
+			[
+				"Horizon",
+				"f_Horizontal_Collision_Point"
+			],
+			[
+				"Veloc",
+				"f_Velocity_Y"
+			],
+			[
+				"Velocity",
+				"f_Velocity_X"
+			],
+			[
+				"ray",
+				"Ray_Length"
+			],
+			[
+				"Vel",
+				"f_Velocity_Y_Horizontal"
+			],
+			[
+				"Velo",
+				"f_Velocity_X_Horizontal"
+			],
+			[
+				"vector",
+				"Vector2i"
+			],
+			[
+				"is",
+				"isKeyPressed"
+			],
+			[
+				"Vecto",
+				"Vector2i"
+			],
+			[
+				"Wall",
+				"i_Wall_Color"
+			],
+			[
+				"i_",
+				"i_Map_Size"
+			],
+			[
+				"Dist",
+				"f_Distance_To_Horizontal_Wall"
+			],
+			[
+				"Curr",
+				"f_Current_Angle"
+			],
+			[
+				"Horiz",
+				"f_Horizontal_Collision_Point"
+			],
+			[
+				"Dis",
+				"f_Distance_To_Vertical_Wall"
+			],
+			[
+				"Hei",
+				"i_Height"
+			],
+			[
+				"f_Ve",
+				"f_Velocity_Y"
+			],
+			[
+				"f_Vel",
+				"f_Velocity_X"
+			],
+			[
+				"Angle",
+				"f_Angle_Shift"
+			],
+			[
+				"Main",
+				"f_Main_Angle"
+			],
+			[
+				"Verti",
+				"f_Vertical_Delta"
+			],
+			[
+				"Fin",
+				"Find_Distance_To_Wall"
+			],
+			[
+				"Vertical_Col",
+				"f_Vertical_Collision_Point"
+			],
+			[
+				"Distan",
+				"Distance_To_Vertical_Wall"
+			],
+			[
+				"Verica",
+				"f_Verical_Collision_Point"
+			],
+			[
+				"Ceck",
+				"Check_Vertical_Collision"
+			],
+			[
+				"Vertic",
+				"f_Vertical_Collision_Point"
+			],
+			[
+				"Vert",
+				"f_Vertical_Collision_Point"
+			],
+			[
+				"Find",
+				"Find_Vertical_Delta"
+			],
+			[
+				"Vect",
+				"Vector2f"
+			],
+			[
+				"Hori",
+				"f_Horizontal_Collision_Point"
+			],
+			[
+				"Check",
+				"Check_Horizontal_Collision"
+			],
+			[
+				"H",
+				"Horizontal_Cell"
+			],
+			[
+				"Hor",
+				"f_Horizontal_Delta"
+			],
+			[
+				"b_H",
+				"b_Hit_Wall_Horizontal"
+			],
+			[
+				"Player",
+				"f_Player"
+			],
+			[
+				"Cure",
+				"f_Current_Angle"
+			],
+			[
+				"Cur",
+				"f_Current_Angle"
+			],
+			[
+				"Vec",
+				"Vector2f"
+			],
+			[
+				"Pla",
+				"f_Player"
+			],
+			[
+				"f_",
+				"f_Vertical_Point"
+			],
+			[
+				"f_Hor",
+				"f_Horizontal_Delta_X"
+			],
+			[
+				"f_Ver",
+				"f_Vertical_Point"
+			],
+			[
+				"Ve",
+				"f_Vertical_Point"
+			],
+			[
+				"f_Vert",
+				"f_Vertical_Delta_X"
+			],
+			[
+				"f_Hori",
+				"f_Horizontal_Delta_X"
+			],
+			[
+				"M",
+				"M_PI"
+			],
+			[
+				"hit",
+				"hitWallV"
+			],
+			[
+				"Ra",
+				"RayField_last"
+			],
+			[
+				"Coun",
+				"CounterB"
+			],
+			[
+				"Ma",
+				"Map_Size"
+			],
+			[
+				"Fo",
+				"FOV"
+			],
+			[
+				"f",
+				"find_first_collision_point_vertical"
+			],
+			[
+				"fin",
+				"find_first_collision_point_horizontal_exception_zero"
+			],
+			[
+				"set",
+				"setFillColor"
+			],
+			[
+				"map",
+				"Map_Size"
+			],
+			[
+				"check",
+				"check_collision"
+			],
+			[
+				"Tile",
+				"TileX"
+			],
+			[
+				"Til",
+				"TileY"
+			],
+			[
+				"Eye",
+				"EyeX"
+			],
+			[
+				"count",
+				"count_zeros"
+			],
+			[
+				"coun",
+				"count_zeros"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bui",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/HandMade Programs/С/С++/Ray Casting/Ray_Casting 2.0/main.cpp",
+		"/D/HandMade Programs/С/С++/Ray Casting/Ray_Casting 1.0/main.cpp",
+		"/D/HandMade Programs/С/С++/SFML/test/test.cpp",
+		"/D/HandMade Programs/С/С++/Ray Casting/main.cpp",
+		"/D/HandMade Programs/С/С++/Ray Casting_Single/one_ray.cpp",
+		"/D/HandMade Programs/С/С++/Ray Casting_Single/main.cpp",
+		"/D/HandMade Programs/С/С++/SFML/Ray Casting/main.cpp",
+		"/D/HandMade Programs/С/ИТМО/mankala/mankala.c",
+		"/C/SFML-2.5.1/examples/sound/Sound.cpp",
+		"/C/SFML-2.5.1/examples/win32/Win32.cpp",
+		"/C/SFML-2.5.1/examples/window/Window.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i_Distance_To_Projection_Plane",
+			"i_FOV",
+			"i_Height",
+			"i_Width",
+			"lastMousePos",
+			"255",
+			"Wall_Color",
+			"f_Current_Angle",
+			"x",
+			"Main_Angle",
+			"yV",
+			"xV",
+			"Vecical",
+			"FOV",
+			"Width",
+			"Map_Size",
+			"Distance_To_Vertical_Wall",
+			"Distance_To_Horizontal_Wall",
+			"f_Vertical_Point",
+			"f_Horizontal_Point",
+			"floor",
+			"Main_",
+			"angle",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Cur_",
+			"Main_Angle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
